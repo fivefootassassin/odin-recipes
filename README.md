@@ -4,3 +4,5 @@ This is the first project in the foundations course on The Odin Project. This pr
     * Setting up and bring files into github
     * Make multiple pages
     * Add links
+    
+    https://fivefootassassin.github.io/odin-recipes/
